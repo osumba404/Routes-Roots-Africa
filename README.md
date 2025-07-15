@@ -61,14 +61,6 @@ It’s part **digital archive**, part **tourism guide**, and part **youth storyt
 
 ---
 
-### 🌟 **Bonus Ideas:**
-
-* **Mobile-first experience:** lightweight version for rural access
-* **Offline upload option:** SMS code or local center to send videos via WhatsApp
-* **Partnerships:** work with schools, tourism boards, cultural NGOs, local chiefs
-* **Exportable heritage kits:** downloadable mini-documents or booklets per village
-
----
 
 ### 💥 **Impact Goals:**
 
